@@ -13,7 +13,7 @@ This project accomplishes two things:
 * Manage the code review state of your branches
 * Gives a snapshot of the where your local branches are vs origin in terms of being ahead / behind on commits
 
-There is a nice blog post describing the features along with screenshots at http://bit.ly/git-goggles
+There is a nice blog post describing the features along with screenshots at http://cl.ly/RTAm/o
 
 Field Reference
 ===============
